@@ -14,6 +14,3 @@ Example output:
 - 300K is equal to 26.85°C.
 - 500K is equal to 440.33°F.
 - 100K is equal to 33.00°N.
-
-Feel free to modify the output format according to your preference or specific requirements.
-Save the code in an HTML file (e.g., temperature_converter.html) and the explanation in a text file named readme.txt. You can open the HTML file in a web browser to use the temperature converter. The converted temperature will be displayed in the chosen output format, and the explanation in the readme.txt file will provide further details on the output format choice.
